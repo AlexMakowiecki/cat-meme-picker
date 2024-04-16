@@ -32,7 +32,8 @@ I used HTML, CSS, and Javascript.
       })
       ``` 
 ## Preview 
-<img style="text-align:center" src="https://github.com/AlexMakowiecki/cookie-consent/assets/122258496/1a10f41a-3fbd-4702-863d-008177f133db" width="500px"/> 
+<img style="text-align:center" src="https://github.com/AlexMakowiecki/cat-meme-picker/assets/122258496/5ff41205-b8e3-43d5-ba59-ebe4b726ee78" width="500px"/> 
+
 
 ## About Scrimba!
 
